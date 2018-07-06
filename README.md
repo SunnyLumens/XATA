@@ -1,0 +1,2 @@
+# XATA
+/home
